@@ -1,5 +1,5 @@
 ![Logo](./art/logo.png)
-
+It is an unofficial Supabase client libraries for PHP.
 <!--
 
 **Here are some ideas to get you started:**
