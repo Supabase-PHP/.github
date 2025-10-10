@@ -1,4 +1,4 @@
-## Hi there 👋
+![Logo](./art/logo.png)
 
 <!--
 
